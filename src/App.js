@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <Welcome name="Rahil" />
-    </>
+    </div>
   );
 }
 
